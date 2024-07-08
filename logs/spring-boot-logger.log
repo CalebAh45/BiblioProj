@@ -1,0 +1,42 @@
+2024-07-05T10:10:03.771+02:00  INFO 12544 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 with PID 12544 (D:\projet\demo\target\classes started by Caleb AHOUANVOEKE in D:\projet\demo)
+2024-07-05T10:10:03.779+02:00  INFO 12544 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-07-05T10:10:06.245+02:00  WARN 12544 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+2024-07-05T10:10:09.333+02:00  INFO 12544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-07-05T10:10:09.538+02:00  INFO 12544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-05T10:10:09.539+02:00  INFO 12544 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-05T10:10:09.857+02:00  INFO 12544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-05T10:10:09.858+02:00  INFO 12544 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5893 ms
+2024-07-05T10:10:11.299+02:00  WARN 12544 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-07-05T10:10:11.887+02:00  INFO 12544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-07-05T10:10:11.921+02:00  INFO 12544 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 10.934 seconds (process running for 14.481)
+2024-07-05T10:12:22.556+02:00  INFO 12544 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-05T10:12:22.558+02:00  INFO 12544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-05T10:12:22.563+02:00  INFO 12544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2024-07-05T10:38:20.571+02:00  INFO 7096 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 with PID 7096 (D:\projet\demo\target\classes started by Caleb AHOUANVOEKE in D:\projet\demo)
+2024-07-05T10:38:20.584+02:00  INFO 7096 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-07-05T10:38:23.525+02:00  WARN 7096 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+2024-07-05T10:38:25.195+02:00  INFO 7096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-07-05T10:38:25.250+02:00  INFO 7096 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-05T10:38:25.252+02:00  INFO 7096 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-05T10:38:25.542+02:00  INFO 7096 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-05T10:38:25.543+02:00  INFO 7096 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4647 ms
+2024-07-05T10:38:26.727+02:00  WARN 7096 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-07-05T10:38:27.637+02:00  INFO 7096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2024-07-05T10:38:27.699+02:00  INFO 7096 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 9.048 seconds (process running for 10.843)
+2024-07-05T10:38:59.026+02:00  INFO 7096 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-05T10:38:59.030+02:00  INFO 7096 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-05T10:38:59.034+02:00  INFO 7096 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2024-07-05T10:42:50.918+02:00  INFO 1920 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.9 with PID 1920 (D:\projet\demo\target\classes started by Caleb AHOUANVOEKE in D:\projet\demo)
+2024-07-05T10:42:50.941+02:00  INFO 1920 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-07-05T10:42:56.582+02:00  WARN 1920 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+2024-07-05T10:42:58.177+02:00  INFO 1920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-07-05T10:42:58.228+02:00  INFO 1920 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-05T10:42:58.229+02:00  INFO 1920 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-05T10:42:58.453+02:00  INFO 1920 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-05T10:42:58.454+02:00  INFO 1920 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7154 ms
+2024-07-05T10:42:58.867+02:00  INFO 1920 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-05T10:43:00.499+02:00  INFO 1920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2024-07-05T10:43:00.541+02:00  INFO 1920 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 11.671 seconds (process running for 13.64)
+2024-07-05T10:43:27.512+02:00  INFO 1920 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-05T10:43:27.513+02:00  INFO 1920 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-05T10:43:27.517+02:00  INFO 1920 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
